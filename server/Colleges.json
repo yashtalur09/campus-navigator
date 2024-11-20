@@ -1,0 +1,134 @@
+[
+    {
+      "collegeName": "Indian Institute of Technology Bombay",
+      "nirfRank": 1,
+      "location": "Mumbai, Maharashtra",
+      "cutoff": 100,
+      "placements": {
+        "highestPackage": "1.5 Cr",
+        "averagePackage": "25 LPA"
+      }
+    },
+    {
+      "collegeName": "Indian Institute of Technology Delhi",
+      "nirfRank": 2,
+      "location": "Delhi",
+      "cutoff": 120,
+      "placements": {
+        "highestPackage": "1.2 Cr",
+        "averagePackage": "23 LPA"
+      }
+    },
+    {
+      "collegeName": "Indian Institute of Technology Madras",
+      "nirfRank": 3,
+      "location": "Chennai, Tamil Nadu",
+      "cutoff": 150,
+      "placements": {
+        "highestPackage": "1.1 Cr",
+        "averagePackage": "22 LPA"
+      }
+    },
+    {
+      "collegeName": "Indian Institute of Technology Kanpur",
+      "nirfRank": 4,
+      "location": "Kanpur, Uttar Pradesh",
+      "cutoff": 200,
+      "placements": {
+        "highestPackage": "1 Cr",
+        "averagePackage": "20 LPA"
+      }
+    },
+    {
+      "collegeName": "Indian Institute of Technology Kharagpur",
+      "nirfRank": 5,
+      "location": "Kharagpur, West Bengal",
+      "cutoff": 250,
+      "placements": {
+        "highestPackage": "90 LPA",
+        "averagePackage": "18 LPA"
+      }
+    },
+    {
+      "collegeName": "Indian Institute of Technology Roorkee",
+      "nirfRank": 6,
+      "location": "Roorkee, Uttarakhand",
+      "cutoff": 300,
+      "placements": {
+        "highestPackage": "85 LPA",
+        "averagePackage": "16 LPA"
+      }
+    },
+    {
+      "collegeName": "Indian Institute of Technology Guwahati",
+      "nirfRank": 7,
+      "location": "Guwahati, Assam",
+      "cutoff": 350,
+      "placements": {
+        "highestPackage": "80 LPA",
+        "averagePackage": "15 LPA"
+      }
+    },
+    {
+      "collegeName": "Indian Institute of Technology Hyderabad",
+      "nirfRank": 8,
+      "location": "Hyderabad, Telangana",
+      "cutoff": 400,
+      "placements": {
+        "highestPackage": "75 LPA",
+        "averagePackage": "14 LPA"
+      }
+    },
+    {
+      "collegeName": "National Institute of Technology Tiruchirappalli",
+      "nirfRank": 9,
+      "location": "Tiruchirappalli, Tamil Nadu",
+      "cutoff": 500,
+      "placements": {
+        "highestPackage": "60 LPA",
+        "averagePackage": "12 LPA"
+      }
+    },
+    {
+      "collegeName": "National Institute of Technology Surathkal",
+      "nirfRank": 10,
+      "location": "Surathkal, Karnataka",
+      "cutoff": 600,
+      "placements": {
+        "highestPackage": "55 LPA",
+        "averagePackage": "10 LPA"
+      }
+    },
+    {
+      "collegeName": "Birla Institute of Technology and Science Pilani",
+      "nirfRank": 11,
+      "location": "Pilani, Rajasthan",
+      "cutoff": 700,
+      "placements": {
+        "highestPackage": "50 LPA",
+        "averagePackage": "9 LPA"
+      }
+    },
+    {
+      "collegeName": "Vellore Institute of Technology",
+      "nirfRank": 12,
+      "location": "Vellore, Tamil Nadu",
+      "cutoff": 800,
+      "placements": {
+        "highestPackage": "40 LPA",
+        "averagePackage": "8 LPA"
+      }
+    },
+    {
+      "collegeName": "Delhi Technological University",
+      "nirfRank": 13,
+      "location": "Delhi",
+      "cutoff": 900,
+      "placements": {
+        "highestPackage": "35 LPA",
+        "averagePackage": "7 LPA"
+      }
+    }
+    
+  ]
+  
